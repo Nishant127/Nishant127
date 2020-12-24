@@ -1,8 +1,8 @@
 <div>
-   <h2 align="center">👋𝘏𝘦𝘭𝘭𝘰 &lt𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳𝘴/&gt, 𝘐'𝘮 𝘕𝘪𝘴𝘩𝘢𝘯𝘵<h2>
+   <h2 >👋𝘏𝘦𝘭𝘭𝘰 &lt𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳𝘴/&gt, 𝘐'𝘮 𝘕𝘪𝘴𝘩𝘢𝘯𝘵<h2>
 </div>     
 <h5 align="center">
-<p align='center'>
+<p >
    <a href="https://www.linkedin.com/in/nishant-handge-618673190/"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_14-linkedin_3529657.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nishant_127000"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_6-twitter_3529664.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/nishant.handge"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_1-facebook_3529651.png"></a>&nbsp;&nbsp;
@@ -10,16 +10,16 @@
  <a href="mailto:handgenishant@gmail.com"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
  </p>
    
-  <p align="center">
-	<h3>👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.</h3>
+  <p >
+	👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.</h3>
 	<br>
-	<h3>💻𝘐'𝘮 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.</h3>
+	💻𝘐'𝘮 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.</h3>
 	<br> 
-	<h3>🚀𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰.</h3>
+	🚀𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰.</h3>
 	<br>
-	<h3> 💥 𝘐'𝘮 𝘊𝘰𝘮𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳.</h3>
+	 💥 𝘐'𝘮 𝘊𝘰𝘮𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳.</h3>
 	<br> 
-	<h3>⭐3 𝘴𝘵𝘢𝘳 𝘢𝘵 𝘊𝘰𝘥𝘦𝘤𝘩𝘦𝘧.</h3>
+	⭐3 𝘴𝘵𝘢𝘳 𝘢𝘵 𝘊𝘰𝘥𝘦𝘤𝘩𝘦𝘧.</h3>
    </p>    
   
       
