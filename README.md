@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">👋Hello Developers<img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/icons8-code-96.png">,I'm Nishant <h2>
+   <h2 align="center">👋Hello &ltDevelopers/&gt, I'm Nishant <h2>
 </div>     
 <h5 align="center">
 <p align='center'>
