@@ -24,12 +24,11 @@
   
       
    <h5><i><b>Tools and Languages</b></i></h5>
-   <br>
+   
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-   <br>
    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
