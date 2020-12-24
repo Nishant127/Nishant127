@@ -22,7 +22,7 @@
 	⭐3 𝘴𝘵𝘢𝘳 𝘢𝘵 𝘊𝘰𝘥𝘦𝘤𝘩𝘦𝘧.
    </p>    
   
-     <br>  
+      
    **Tools and Languages**
    <br>
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
@@ -31,7 +31,7 @@
    <br>
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/w3_html5-ar21.svg"></code>
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/netlifyapp_watercss-official.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/djangoproject-ar21.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
    <br>
    
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nishant127&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
