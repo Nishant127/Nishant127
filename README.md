@@ -3,18 +3,24 @@
 </div>     
 <h5 align="center">
 <p align='center'>
-   <a href="https://www.linkedin.com/in/nishant-handge-618673190/"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_14-linkedin_3529657.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nishant_127000"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_6-twitter_3529664.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/nishant.handge"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_1-facebook_3529651.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nishant_127/"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_3-instagram_3529653.png"></a>&nbsp;&nbsp;
- <a href="mailto:handgenishant@gmail.com"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/nishant-handge-618673190/"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_14-linkedin_3529657.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nishant_127000"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_6-twitter_3529664.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/nishant.handge"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_1-facebook_3529651.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nishant_127/"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_3-instagram_3529653.png"></a>&nbsp;&nbsp;
+ <a href="mailto:handgenishant@gmail.com"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
  </p>
+   
+   <br>
    
    **Tools and Languages**
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/python-icon.svg"></code>
    <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/reactjs-icon.svg"></code>
-   
+   <br>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/w3_html5-ar21.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/netlifyapp_watercss-official.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/djangoproject-ar21.svg"></code>
+   <br>
    
   <p align="center">
 	👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.
