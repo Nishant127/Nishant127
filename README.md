@@ -26,14 +26,4 @@
   <p align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 
 
-<p align="center">
-	<code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
-	 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <br>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <br>
-	</p>
+
