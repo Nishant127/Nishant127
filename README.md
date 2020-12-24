@@ -23,7 +23,7 @@
    </p>    
   
       
-   <h5><i><b>Tools and Languages</b></i></h5>
+   <h3><i><b>Tools and Languages:</b></i></h3>
    
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
