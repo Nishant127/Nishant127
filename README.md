@@ -11,7 +11,7 @@
  </p>
   
    <p>
-	<h4 align="center">👨‍🎓I'm Currently pursuing Computer Engineering from D.Y Patil College Of Engineering,Pune</h4>
+	<h4 align="center">👨‍🎓Currently I'm pursuing Computer Engineering from D.Y Patil College Of Engineering,Pune</h4>
 	<h4 align="center">💻I'm Full-Stack Web Developer </h4>
 	<h4 align="center">🚀Currently learning Django </h4>
 	<h4 align="center"> 💥 I'm Competitive Programmer</h4>
