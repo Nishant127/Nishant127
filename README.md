@@ -10,18 +10,6 @@
  <a href="mailto:handgenishant@gmail.com"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
  </p>
    
-   <br>
-   
-   **Tools and Languages**
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/python-icon.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/reactjs-icon.svg"></code>
-   <br>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/w3_html5-ar21.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/netlifyapp_watercss-official.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/djangoproject-ar21.svg"></code>
-   <br>
-   
   <p align="center">
 	👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.
 	<br>
@@ -34,6 +22,18 @@
 	⭐3 𝘴𝘵𝘢𝘳 𝘢𝘵 𝘊𝘰𝘥𝘦𝘤𝘩𝘦𝘧.
    </p>    
   
+     <br>  
+   **Tools and Languages**
+   <br>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/python-icon.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/reactjs-icon.svg"></code>
+   <br>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/w3_html5-ar21.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/netlifyapp_watercss-official.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/djangoproject-ar21.svg"></code>
+   <br>
+   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nishant127&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <p align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 
