@@ -25,14 +25,19 @@
       
    **Tools and Languages**
    <br>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/python-icon.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/reactjs-icon.svg"></code>
-   <br>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/w3_html5-ar21.svg"></code>
-   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/netlifyapp_watercss-official.svg"></code>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
    <br>
+   <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
+   <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+   <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></code>
+   <br>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
    
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nishant127&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <p align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
