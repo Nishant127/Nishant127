@@ -9,7 +9,13 @@
 <a href="https://www.instagram.com/nishant_127/"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_3-instagram_3529653.png"></a>&nbsp;&nbsp;
  <a href="mailto:handgenishant@gmail.com"><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
  </p>
-  
+   
+   **Tools and Languages**
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/python-icon.svg"></code>
+   <code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/reactjs-icon.svg"></code>
+   
+   
   <p align="center">
 	👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.
 	<br>
