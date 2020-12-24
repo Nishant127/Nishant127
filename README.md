@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">👋Hello &ltDevelopers/&gt, I'm Nishant <h2>
+   <h2 align="center">👋𝘏𝘦𝘭𝘭𝘰 &𝘭𝘵𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳𝘴/&𝘨𝘵, 𝘐'𝘮 𝘕𝘪𝘴𝘩𝘢𝘯𝘵<h2>
 </div>     
 <h5 align="center">
 <p align='center'>
@@ -27,5 +27,5 @@
 
 
 <p align="center">
-	<code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"><code>
-	</p
+	<code><img height="30" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/javascript-icon.svg"></code>
+	</p>
