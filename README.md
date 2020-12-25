@@ -31,7 +31,6 @@
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
-   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></code>
    <br>
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
