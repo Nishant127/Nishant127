@@ -48,11 +48,16 @@
    <img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
     <br><br><br>
     
-    
+
   <p > <img src="https://github-readme-stats.vercel.app/api?username=Nishant127&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <p ><img height=175  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 	  <br>
 	  <br>
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant127"/>
+	  
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Nishant127/count.svg" />
+</p>
 
 
