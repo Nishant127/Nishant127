@@ -55,9 +55,4 @@
 	  <br>
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant127"/>
 	  
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Nishant127/count.svg" />
-</p>
-
 
