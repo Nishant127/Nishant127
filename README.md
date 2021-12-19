@@ -3,24 +3,18 @@
 </div>     
 <h5 >
 <p >
-   <a href="https://www.linkedin.com/in/nishant-handge-618673190/"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_14-linkedin_3529657.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nishant_127000"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_6-twitter_3529664.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/nishant.handge"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_1-facebook_3529651.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nishant_127/"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_3-instagram_3529653.png"></a>&nbsp;&nbsp;
- <a href="mailto:handgenishant@gmail.com"><img height="40" src="https://github.com/Nishant127/Nishant127/blob/main/github%20images/iconfinder_social_media_isometric_15-google-plus_3529685.png"></a>&nbsp;&nbsp;
+  <a href="mailto:handgenishant@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nishant-handge-618673190/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/nishant_127000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nishant_127/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
    
-  <p >
-	👨‍🎓𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘋.𝘠 𝘗𝘢𝘵𝘪𝘭 𝘊𝘰𝘭𝘭𝘦𝘨𝘦 𝘖𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨,𝘗𝘶𝘯𝘦.
-	<br>
-	💻𝘐'𝘮 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.
-	<br> 
-	🚀𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰.
-	<br>
-	 💥 𝘐'𝘮 a 𝘊𝘰𝘮𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳.
-	<br> 
-	⭐3 𝘴𝘵𝘢𝘳 𝘢𝘵 𝘊𝘰𝘥𝘦𝘤𝘩𝘦𝘧.
-   </p>    
+ 
+#### 👨‍🎓Currently I'm pursuing Computer Engineering from D.Y Patil college of Engineering, Pune.
+#### 💻I'm Django Backend Developer. 
+#### 🚀Currently working on GraphQL in Django.
+#### 💥Also done some Competitive Programming and have 3⭐ on Codechef.
+
   
       
    <h3><i><b>Tools and Languages:</b></i></h3>
@@ -46,6 +40,8 @@
    <img align="left" alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
    
    <img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+
+   <img align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
     <br><br><br>
     
 
