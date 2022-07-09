@@ -12,7 +12,7 @@
  
 #### 👨‍🎓Currently I'm pursuing Computer Engineering from D.Y Patil college of Engineering, Pune.
 #### 💻I'm Django Backend Developer. 
-#### 🚀Currently working on GraphQL in Django.
+#### 🚀Currently working with GraphQL and REST API in Django.
 #### 💥Also done some Competitive Programming and have 3⭐ on Codechef.
 
   
