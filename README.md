@@ -10,9 +10,8 @@
  </p>
    
  
-#### 👨‍🎓Currently I'm pursuing Computer Engineering from D.Y Patil college of Engineering, Pune.
-#### 💻I'm Django Backend Developer. 
-#### 🚀Currently working with GraphQL and REST API in Django.
+#### 👨‍🎓Currently working as a backend developer at Scalereal Technologies.
+#### 💻Building backend with Django.
 #### 💥Also done some Competitive Programming and have 3⭐ on Codechef.
 
   
