@@ -10,7 +10,7 @@
  </p>
    
  
-#### 👨‍🎓Currently working as a backend developer at Scalereal Technologies.
+#### 👨‍🎓Currently working as SDE-1 at Scalereal Technologies.
 #### 💻Building backend with Django.
 #### 💥Also done some Competitive Programming and have 3⭐ on Codechef.
 
