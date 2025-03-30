@@ -10,9 +10,8 @@
  </p>
    
  
-#### 👨‍🎓Currently working as SDE-1 at Scalereal Technologies.
+#### 👨‍🎓Currently working as SDE-2 at GrayQuest.
 #### 💻Building backend with Django.
-#### 💥Also done some Competitive Programming and have 3⭐ on Codechef.
 
   
       
